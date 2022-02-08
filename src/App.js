@@ -9,6 +9,7 @@ function Car({ car }) {
       <p>{car.model}</p>
       <p>{car.year}</p>
       <p>{car.milage}</p>
+      <p></p>
     </div>
   );
 }
